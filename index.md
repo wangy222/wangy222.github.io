@@ -1,11 +1,11 @@
 # 联系方式
-- 手机：18166334886
-- Email：zyc199777@outlook.com
-- QQ：1138613536
+- 手机：xxxx
+- Email：xxxx
+- QQ：xxxx
 
 # 个人信息
 
- - 朱屹晨/男/1997 
+ - 王莹/女/1997 
  - 本科/重庆工程学院-软件工程(2015~2019)
  - 工作经验：1年
  - 期望职位：Java工程师
@@ -15,7 +15,7 @@
 
 # 工作经历
 
-## 北京雷云智链科技有限公司(2019.4~2019.8)
+## 有限公司(2019.4~2019.8)
 
 ### 阳光福利商城
 
@@ -31,7 +31,7 @@ APP端消息推送使用MQ+激光。
 
 在CentOS部署环境,JDK,mysql,Redis,Docker,rabbitMQ,ES,Kibana,nginx,目前三个springBoot项目和一个vue项目用Git+Gitee管理,用Alibaba Cloud Toolkit一键部署。
 
-## 重庆跃医通科技有限公司 （ 2018.9 ~ 2019.4 ）
+## 科技有限公司 （ 2018.9 ~ 2019.4 ）
 
 ### 孕产妇保健系统 
 我负责孕妇体检信息维护这块，获取Form数据，JS通过Ajax请求后台API。Controller处理请求，页面跳转和DTO的验证和处理，构造DO，调用Service进行数据库存储。或者查询DO构造VO返回到前端，通过JQuery赋值到Form表单上，有的页面是ModelAndView通过JSP标签渲染。
